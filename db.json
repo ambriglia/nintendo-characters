@@ -1,0 +1,20 @@
+{
+  "characters": [
+    {
+      "name": "Mario",
+      "game": "Super Mario Bros"
+    },
+    {
+      "name": "Link",
+      "game": "Legend of Zelda"
+    },
+    {
+      "name": "Peach",
+      "game": "Super Mario Bro"
+    },
+    {
+      "name": "Donkey Kong",
+      "game": "Donkey Kong Country"
+    }
+  ]
+}
